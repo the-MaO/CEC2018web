@@ -20,12 +20,12 @@ hr.light {
   border-color: #fff; }
 
 a {
-  color: #F05F40;
+  color: #11457e;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:hover {
-    color: #f05f40; }
+    color: #032b43; }
 
 h1,
 h2,
