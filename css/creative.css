@@ -36,13 +36,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 .bg-primary {
-  background-color: #11457e !important; }  /*druhy vodorovny panel*/
+  background-color: #032b43 !important; }  /*druhy vodorovny panel*/
 
 .bg-dark {
   background-color: #212529 !important; } /*preposledny vodorovny panel*/
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7); } /* obycajny text*/
+  color: rgba(255, 255, 255, 0.7); 
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; } /* obycajny text*/
 
 section {
   padding: 8rem 0; }
@@ -134,7 +135,7 @@ body {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/cover2.jpeg");
+  background-image: url("../img/cover2.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
