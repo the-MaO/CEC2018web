@@ -45,8 +45,27 @@ h6 {
   color: rgba(255, 255, 255, 0.7); 
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; } /* obycajny text*/
 
+.text-dark {
+  color: #032b43;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; 
+}
+
+.border-right {
+  border-right: 1px groove;
+  border-color: #032b43;
+}
+
+.left-pad {
+  padding-left: 1rem;
+}
+
+.right-pad {
+  padding-right: 1rem;
+}
+
 section {
-  padding: 5rem 0; }
+  padding: 5rem 0;
+}
 
 .section-heading {
   margin-top: 0; }
