@@ -631,6 +631,9 @@
 .fa-facebook:before {
   content: "\f09a";
 }
+.fa-instagram:before {
+  content: "\F16D"
+}
 .fa-github:before {
   content: "\f09b";
 }
