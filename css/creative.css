@@ -20,7 +20,7 @@ hr.light {
   border-color: #fff; }
 
 a {
-  color: #d00000;
+  color: #252529;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
@@ -203,7 +203,7 @@ header.masthead {
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: rgba(240, 95, 64, 0.9);
+    background: rgba(208, 0, 0, 0.9);
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
@@ -222,7 +222,7 @@ header.masthead {
         font-weight: 600;
         text-transform: uppercase; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-        font-size: 18px; }
+        font-size: 14px; }
   .portfolio-box:hover .portfolio-box-caption {
     opacity: 1; }
   .portfolio-box:focus {
@@ -231,7 +231,7 @@ header.masthead {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-      font-size: 22px; } }
+      font-size: 14px; } }
 
 .text-primary {
   color: #d00000 !important; }
