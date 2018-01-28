@@ -70,7 +70,8 @@ h6 {
 }
 
 section {
-  padding: 5rem 0;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .section-heading {
