@@ -37,6 +37,8 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
+h1 { font-weight: 600; }
+
 .bg-primary {
   background-color: #032b43 !important; }  /*druhy vodorovny panel*/
 
